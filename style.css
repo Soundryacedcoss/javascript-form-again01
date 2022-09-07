@@ -1,0 +1,29 @@
+#tab1{
+    background-color: gray;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+#div1{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 5%;
+    background-color: paleturquoise;
+    /* margin: 4%; */
+}
+#Demo1{
+    text-align: center;
+    /* background-color: azure; */
+    /* width: 100%; */
+    /* padding: 2%; */
+    margin: 10%;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+#cal{
+    margin: 1%;
+    /* padding: 1%; */
+    background-color: green;
+}
