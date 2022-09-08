@@ -1,8 +1,8 @@
 function calculate() {
   var age = document.getElementById("age").value;
   var weight = document.getElementById("weight").value;
-//   console.log("age b" + age);
-//   console.log("weight b" + weight);
+  console.log("age b" + age);
+  console.log("weight b" + weight);
   
 if(age<5 || age>20 || weight <15 || weight>40){
   document.getElementById("Demo1").innerHTML = "wrong input:)";
