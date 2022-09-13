@@ -22,10 +22,6 @@ if(age<5 || age>20 || weight <15 || weight>40){
   }
 }
 
-   
-
-
-
 if(age>=8 && age<=10){
   if(weight>=21 && weight<=25){
     document.getElementById("Demo1").innerHTML = "perfect:)";
